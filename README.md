@@ -57,6 +57,9 @@ TeoriaSimulacion/
 ├── main.py
 ├── requirements.txt
 └── README.md
+```
+---
+
 # ¿Cómo funciona el sistema?
 
 El sistema utiliza simulación Monte Carlo para generar múltiples escenarios financieros posibles utilizando variables aleatorias.
